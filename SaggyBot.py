@@ -6,7 +6,7 @@ import random
 import re
 from bs4 import BeautifulSoup
 
-TOKEN = 'NTM5OTM0MjA3MjM3OTQ3NDAy.XZa7CQ.qVSJ15toa-_TlOlYGd-Mon5kKuk'
+TOKEN = 'HIDDEN'
 
 client = discord.Client()
 options = []
